@@ -1,0 +1,1569 @@
+,response,in_tokens,out_tokens
+0,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1388
+1,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1605
+2,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,2034
+3,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1404
+4,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1004
+5,"```json
+{
+  ""describes_antisemitic_event"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [5, 7]
+}
+```",38,1441
+6,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1069
+7,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1148
+8,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1606
+9,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1162
+10,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1829
+11,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1454
+12,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1841
+13,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,2575
+14,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1700
+15,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1605
+16,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1105
+17,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1349
+18,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,991
+19,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,747
+20,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1227
+21,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1391
+22,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1478
+23,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1039
+24,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1319
+25,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1226
+26,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1431
+27,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,918
+28,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1241
+29,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1235
+30,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1555
+31,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1195
+32,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1514
+33,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1222
+34,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1021
+35,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,2139
+36,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1320
+37,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,973
+38,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1772
+39,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1539
+40,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,824
+41,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1260
+42,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",34,1315
+43,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1228
+44,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,2497
+45,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,817
+46,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,932
+47,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1111
+48,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1232
+49,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,871
+50,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1010
+51,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1312
+52,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,3679
+53,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1142
+54,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1216
+55,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,2272
+56,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,968
+57,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1489
+58,"```json
+{
+  ""describes_antisemitic_event"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [6, 7]
+}
+```",38,953
+59,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1242
+60,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,892
+61,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1078
+62,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,2239
+63,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1224
+64,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1014
+65,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1036
+66,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1238
+67,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1167
+68,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,922
+69,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,1620
+70,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",35,861
+71,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",983,35
+72,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",2736,35
+73,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1237,35
+74,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1146,35
+75,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1769,34
+76,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",2045,35
+77,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1220,35
+78,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1459,35
+79,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",910,35
+80,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",980,35
+81,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",921,35
+82,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1199,35
+83,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1119,35
+84,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",951,35
+85,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1046,35
+86,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1139,35
+87,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1461,35
+88,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1393,35
+89,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1970,35
+90,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1271,35
+91,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",944,35
+92,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",2196,35
+93,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",976,35
+94,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1342,35
+95,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1003,35
+96,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1201,35
+97,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",954,35
+98,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",927,35
+99,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1941,35
+100,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1596,35
+101,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",888,35
+102,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1112,35
+103,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1734,34
+104,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1158,35
+105,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1000,35
+106,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1007,35
+107,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1107,35
+108,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",763,35
+109,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",984,35
+110,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1801,35
+111,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1708,35
+112,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",823,35
+113,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1025,35
+114,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",961,35
+115,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1520,35
+116,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1498,35
+117,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",966,35
+118,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1106,35
+119,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",779,35
+120,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",4628,35
+121,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",789,35
+122,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",4509,35
+123,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1977,35
+124,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",2617,35
+125,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1699,35
+126,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1003,34
+127,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1401,35
+128,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",783,35
+129,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1473,35
+130,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1360,35
+131,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",829,35
+132,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",917,35
+133,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1010,35
+134,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1508,35
+135,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1252,35
+136,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1331,35
+137,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1687,35
+138,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1928,35
+139,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",2073,34
+140,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1095,35
+141,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1693,35
+142,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",819,35
+143,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1147,35
+144,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",2502,35
+145,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",2162,35
+146,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1310,35
+147,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1103,35
+148,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1217,34
+149,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",3129,35
+150,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",938,35
+151,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",978,35
+152,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",808,35
+153,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",2236,35
+154,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1154,35
+155,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1576,35
+156,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1003,35
+157,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1259,35
+158,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1061,35
+159,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1079,35
+160,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",846,35
+161,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1128,35
+162,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1190,35
+163,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",954,35
+164,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1090,35
+165,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",2374,35
+166,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1396,35
+167,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1116,35
+168,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1296,35
+169,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1286,35
+170,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1197,35
+171,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1222,35
+172,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1895,35
+173,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1089,35
+174,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1347,35
+175,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1081,35
+176,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1610,35
+177,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",948,35
+178,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1220,35
+179,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1070,35
+180,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1220,35
+181,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1224,35
+182,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1073,35
+183,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1064,35
+184,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1095,34
+185,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1190,35
+186,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1178,35
+187,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1194,35
+188,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1000,35
+189,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1262,35
+190,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1226,35
+191,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1022,35
+192,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1012,35
+193,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1568,35
+194,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1301,35
+195,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1635,35
+196,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1357,35
+197,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1098,35
+198,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1319,35
+199,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1562,35
+200,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1969,35
+201,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1070,35
+202,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1213,35
+203,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",2870,35
+204,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1727,35
+205,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1057,35
+206,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1128,35
+207,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",872,35
+208,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1033,35
+209,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1009,35
+210,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1417,35
+211,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1430,35
+212,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1003,35
+213,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1044,35
+214,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1343,35
+215,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1435,35
+216,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1280,35
+217,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1075,35
+218,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1019,35
+219,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1460,35
+220,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1159,35
+221,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1309,35
+222,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1150,35
+223,"```json
+{
+  ""describes_antisemitic_event"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",1098,35

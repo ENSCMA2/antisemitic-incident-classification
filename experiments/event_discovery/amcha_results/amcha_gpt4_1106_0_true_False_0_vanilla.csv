@@ -1,0 +1,3217 @@
+,response,in_tokens,out_tokens
+0,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",610,45
+1,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [11, 12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",547,42
+2,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [4, 9, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1055,45
+3,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",448,39
+4,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",928,39
+5,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",816,42
+6,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",879,42
+7,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",893,39
+8,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [11, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",444,39
+9,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",436,36
+10,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",497,39
+11,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",460,36
+12,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",545,39
+13,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 9],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",453,39
+14,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [11, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",426,39
+15,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",895,39
+16,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",931,42
+17,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [4, 7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",570,45
+18,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",578,45
+19,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [4, 7, 9, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",588,45
+20,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 6, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",466,42
+21,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",528,42
+22,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",845,36
+23,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",518,42
+24,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [10, 11, 12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1846,45
+25,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [11, 12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",436,42
+26,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",451,36
+27,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [9],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",443,36
+28,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 8],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",477,39
+29,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",838,39
+30,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",423,36
+31,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",481,42
+32,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",435,36
+33,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",553,45
+34,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",542,42
+35,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",437,36
+36,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",416,42
+37,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [10, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",594,42
+38,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1147,45
+39,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 9],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",514,39
+40,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",434,36
+41,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",584,42
+42,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11, 12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1018,48
+43,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",660,36
+44,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [11, 12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1804,42
+45,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",762,45
+46,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",602,39
+47,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 9],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",554,39
+48,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",446,42
+49,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [4, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",431,39
+50,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [7, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",494,42
+51,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11, 12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",865,48
+52,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1356,42
+53,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",841,42
+54,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",458,36
+55,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [11, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",416,39
+56,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 8],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",506,39
+57,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",679,39
+58,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",424,36
+59,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",434,42
+60,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13, 14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",539,42
+61,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [10, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",2161,42
+62,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 9, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",526,45
+63,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",450,36
+64,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",753,42
+65,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [10, 11, 12, 13, 14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",832,48
+66,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 9, 10, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",773,48
+67,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",663,39
+68,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 9, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",947,45
+69,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",720,45
+70,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",528,36
+71,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 9, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",515,42
+72,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",479,36
+73,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",434,39
+74,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1157,36
+75,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",489,42
+76,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [7, 11, 12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",459,45
+77,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [10, 11, 13, 14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",529,45
+78,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",677,42
+79,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",422,36
+80,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",895,39
+81,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",423,42
+82,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",448,36
+83,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",984,39
+84,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [7, 10, 11, 12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",539,48
+85,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",498,42
+86,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [10, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",788,42
+87,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",438,36
+88,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [10, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1161,42
+89,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",451,39
+90,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [7, 11, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",483,42
+91,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",511,42
+92,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",526,36
+93,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",470,42
+94,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",550,36
+95,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",746,45
+96,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",645,36
+97,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",467,39
+98,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 9, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",2296,45
+99,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [10, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1160,42
+100,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",514,36
+101,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",428,36
+102,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",894,36
+103,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [7, 10, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",441,45
+104,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",415,42
+105,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",595,42
+106,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",893,39
+107,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",612,36
+108,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",425,36
+109,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",443,36
+110,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",732,39
+111,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",493,36
+112,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",2490,42
+113,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",823,36
+114,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [11, 12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1369,42
+115,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [9, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",985,39
+116,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",439,39
+117,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",587,36
+118,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",454,45
+119,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",470,42
+120,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1390,42
+121,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",737,39
+122,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",442,36
+123,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 9],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1085,39
+124,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",560,42
+125,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 8],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",456,39
+126,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",437,39
+127,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",473,39
+128,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [9, 12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",488,42
+129,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",441,36
+130,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",840,36
+131,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",528,39
+132,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",715,36
+133,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [10, 11, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",513,42
+134,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1441,42
+135,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [7, 10, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",879,45
+136,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",495,39
+137,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",449,36
+138,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",421,39
+139,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [3, 6, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",451,42
+140,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [5, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",492,39
+141,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [1, 6, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",473,42
+142,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",451,36
+143,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",426,39
+144,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [6, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",455,39
+145,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1336,42
+146,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1196,36
+147,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",422,39
+148,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",450,36
+149,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [6, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",522,39
+150,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",633,39
+151,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [6, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",466,39
+152,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [6],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",448,36
+153,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",514,39
+154,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",764,39
+155,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",871,45
+156,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [6, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",492,39
+157,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",419,36
+158,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [6, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",430,39
+159,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 6, 7, 9, 10],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",482,48
+160,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",421,39
+161,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7, 9],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",562,42
+162,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",477,39
+163,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [6, 7, 9, 12, 13, 14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",663,51
+164,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",427,36
+165,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",446,39
+166,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",561,45
+167,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",406,36
+168,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [5, 7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1135,45
+169,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",402,39
+170,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",429,39
+171,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",489,42
+172,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",548,39
+173,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [1, 3],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",440,39
+174,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [7, 10, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",864,45
+175,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [1, 6],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",474,39
+176,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [3],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",410,36
+177,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [4, 6, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",426,42
+178,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [2, 6, 7, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",597,45
+179,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",528,42
+180,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [5, 6, 7, 9, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1387,48
+181,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [6, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",480,39
+182,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [6, 7, 9],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",447,42
+183,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 9, 10, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1048,48
+184,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [7, 10, 11, 12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",611,48
+185,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 9, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",792,45
+186,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [3],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",411,36
+187,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",727,36
+188,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",418,36
+189,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",425,36
+190,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [1, 6, 7, 9, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",968,48
+191,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",590,42
+192,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [2, 5, 6, 7, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",890,51
+193,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",423,36
+194,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",404,39
+195,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",413,36
+196,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [7, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",839,39
+197,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",442,36
+198,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [7, 10, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",869,45
+199,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",441,39
+200,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1125,36
+201,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",439,39
+202,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1293,39
+203,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",573,36
+204,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",412,39
+205,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",714,42
+206,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",453,39
+207,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [6, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",400,39
+208,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [7, 10, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",689,45
+209,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [4, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",431,39
+210,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",445,36
+211,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",429,39
+212,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [2, 5, 12, 13, 14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",860,48
+213,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [10, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",651,42
+214,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",429,36
+215,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13, 14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",669,42
+216,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",418,39
+217,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",422,36
+218,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [6, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",434,39
+219,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [3],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",409,36
+220,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [6, 7, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",732,42
+221,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [2, 5, 6, 7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",864,51
+222,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",416,39
+223,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [7, 10, 11, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",458,45
+224,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",414,39
+225,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [5],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",425,36
+226,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1217,45
+227,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [1, 6, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",440,42
+228,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",434,39
+229,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [6, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",440,39
+230,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [6, 9, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",456,42
+231,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 9],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",490,39
+232,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",502,36
+233,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [7, 12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1368,42
+234,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [5, 6, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",499,42
+235,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",401,39
+236,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",879,42
+237,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1000,36
+238,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7, 8],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",602,42
+239,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",404,36
+240,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",488,36
+241,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [6, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",514,39
+242,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",486,39
+243,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [11, 12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1212,39
+244,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [2, 5, 7, 10],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",832,45
+245,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [5, 7, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",561,42
+246,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",447,39
+247,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",670,39
+248,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",1427,39
+249,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [2, 6, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",889,42
+250,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",589,42
+251,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",435,39
+252,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [2, 6, 7, 9, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",540,51
+253,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",481,36
+254,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",568,39
+255,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 4, 7, 9],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",552,45
+256,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",479,39
+257,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",539,39
+258,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [3],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",431,36
+259,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",419,36
+260,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [2, 5, 7, 10, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",810,48
+261,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [2, 3, 5, 6, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",523,48
+262,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [6, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",510,39
+263,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",427,36
+264,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",468,39
+265,"```json
+{
+  ""category"": ""C"",
+  ""type_of_expression"": [6, 7, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",465,42
+266,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [2, 7, 11],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",575,42
+267,"```json
+{
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",488,39
+268,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",432,36
+269,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",434,36
+270,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",431,36
+271,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",460,36
+272,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",471,36
+273,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",398,36
+274,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",483,36
+275,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",444,36
+276,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",449,36
+277,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",430,36
+278,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",555,36
+279,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",437,36
+280,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",438,36
+281,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",432,36
+282,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",551,36
+283,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",462,36
+284,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",389,36
+285,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",400,36
+286,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",439,36
+287,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",405,36
+288,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",401,36
+289,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",391,36
+290,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",452,36
+291,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",418,36
+292,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",519,36
+293,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",430,36
+294,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",448,36
+295,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",479,36
+296,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",423,36
+297,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",423,36
+298,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",492,36
+299,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",436,36
+300,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",419,36
+301,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",449,36
+302,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",495,36
+303,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",502,36
+304,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",432,36
+305,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",467,39
+306,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",433,36
+307,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13, 14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",459,42
+308,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13, 14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",526,42
+309,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",568,36
+310,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",525,36
+311,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",412,36
+312,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",390,36
+313,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",418,36
+314,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",437,36
+315,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",399,36
+316,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",455,36
+317,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",489,36
+318,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",472,36
+319,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",459,36
+320,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",496,39
+321,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",431,36
+322,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",460,36
+323,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",453,36
+324,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",419,36
+325,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",411,36
+326,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",452,36
+327,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",424,36
+328,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",473,36
+329,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",434,36
+330,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",468,39
+331,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",435,36
+332,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13, 14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",423,42
+333,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",482,36
+334,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",427,36
+335,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",458,36
+336,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",503,36
+337,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",418,36
+338,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",437,36
+339,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",412,36
+340,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",394,36
+341,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",415,36
+342,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",426,36
+343,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",411,36
+344,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",428,36
+345,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",409,36
+346,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",424,36
+347,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",436,36
+348,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",721,36
+349,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",448,36
+350,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",526,36
+351,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",452,36
+352,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",505,36
+353,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",411,36
+354,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",527,36
+355,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13, 14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",448,42
+356,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",461,36
+357,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",630,39
+358,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",492,36
+359,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",467,36
+360,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",453,36
+361,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",438,36
+362,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",507,36
+363,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",391,36
+364,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",483,39
+365,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",409,36
+366,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",443,36
+367,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",599,36
+368,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",397,36
+369,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",384,36
+370,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",474,36
+371,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",431,36
+372,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13, 14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",406,39
+373,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",421,39
+374,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",445,36
+375,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",430,36
+376,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",394,36
+377,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",414,36
+378,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",428,36
+379,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13, 14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",413,42
+380,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",456,36
+381,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",495,39
+382,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",408,36
+383,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",436,36
+384,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",395,36
+385,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",412,36
+386,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",397,36
+387,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",444,36
+388,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",458,36
+389,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",442,36
+390,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",412,36
+391,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",411,36
+392,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [5, 12, 14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",504,42
+393,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",413,36
+394,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",440,36
+395,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",418,36
+396,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13, 14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",574,42
+397,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",424,36
+398,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",423,36
+399,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [14],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",431,36
+400,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",443,36
+401,"```json
+{
+  ""category"": ""D"",
+  ""type_of_expression"": [13],
+  ""other_category"": """",
+  ""other_type_of_expression"": """"
+}
+```",442,36

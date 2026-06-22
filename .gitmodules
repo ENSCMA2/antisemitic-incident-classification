@@ -1,0 +1,3 @@
+[submodule "data/TOXIGEN"]
+	path = data/TOXIGEN
+	url = https://github.com/microsoft/toxigen

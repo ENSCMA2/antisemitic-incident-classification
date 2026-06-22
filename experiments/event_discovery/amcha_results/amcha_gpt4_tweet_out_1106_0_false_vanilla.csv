@@ -1,0 +1,2815 @@
+,response,in_tokens,out_tokens
+0,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+1,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+2,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+3,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [11]
+}
+```",336,30
+4,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+5,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",359,30
+6,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+7,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+8,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+9,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+10,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+11,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+12,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 8, 11]
+}
+```",342,36
+13,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [9]
+}
+```",336,30
+14,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",343,30
+15,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+16,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10]
+}
+```",339,33
+17,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [4, 10, 11]
+}
+```",342,36
+18,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11]
+}
+```",342,36
+19,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [4, 11]
+}
+```",339,33
+20,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",362,30
+21,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [10, 13]
+}
+```",339,33
+22,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+23,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [8, 12]
+}
+```",339,33
+24,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+25,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+26,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+27,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [9]
+}
+```",336,30
+28,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 8]
+}
+```",339,33
+29,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [10, 7]
+}
+```",339,33
+30,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7]
+}
+```",336,30
+31,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+32,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+33,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+34,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [10, 11, 12]
+}
+```",342,36
+35,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+36,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+37,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [10, 11, 12, 13]
+}
+```",345,39
+38,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+39,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [9, 12]
+}
+```",339,33
+40,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",353,30
+41,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [11]
+}
+```",336,30
+42,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+43,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",359,30
+44,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+45,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13]
+}
+```",339,33
+46,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+47,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",342,30
+48,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+49,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+50,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+51,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+52,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [10, 11]
+}
+```",339,33
+53,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7]
+}
+```",336,30
+54,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+55,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+56,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 11]
+}
+```",339,33
+57,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+58,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 8]
+}
+```",339,33
+59,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+60,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+61,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13]
+}
+```",339,33
+62,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [9, 12, 13]
+}
+```",342,36
+63,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+64,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",336,30
+65,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [10, 12, 14]
+}
+```",342,36
+66,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",344,30
+67,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [8, 10]
+}
+```",339,33
+68,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [9, 12]
+}
+```",339,33
+69,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+70,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+71,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+72,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+73,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [10, 13]
+}
+```",339,33
+74,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+75,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+76,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [7, 10, 11, 12]
+}
+```",345,39
+77,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [14]
+}
+```",336,30
+78,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [10]
+}
+```",336,30
+79,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",351,30
+80,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+81,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+82,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+83,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+84,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+85,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+86,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+87,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+88,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+89,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+90,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",352,30
+91,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [10, 11]
+}
+```",339,33
+92,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13]
+}
+```",339,33
+93,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11]
+}
+```",342,36
+94,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+95,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [10]
+}
+```",336,30
+96,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+97,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",350,30
+98,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [11]
+}
+```",336,30
+99,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+100,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+101,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+102,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",353,30
+103,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+104,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+105,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [10, 11, 12]
+}
+```",342,36
+106,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+107,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+108,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+109,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13]
+}
+```",339,33
+110,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+111,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",344,30
+112,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+113,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+114,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13]
+}
+```",339,33
+115,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+116,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+117,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",353,30
+118,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",376,30
+119,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [8, 10, 11, 12]
+}
+```",345,39
+120,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [10]
+}
+```",336,30
+121,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+122,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+123,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [9]
+}
+```",336,30
+124,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [10, 11]
+}
+```",339,33
+125,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 8]
+}
+```",339,33
+126,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+127,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13]
+}
+```",339,33
+128,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [9, 12]
+}
+```",339,33
+129,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+130,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10]
+}
+```",339,33
+131,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [10, 11]
+}
+```",339,33
+132,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+133,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+134,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+135,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+136,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7]
+}
+```",336,30
+137,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7]
+}
+```",339,33
+138,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [8]
+}
+```",351,30
+139,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",347,30
+140,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10]
+}
+```",339,33
+141,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [6, 7]
+}
+```",339,33
+142,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",350,30
+143,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [3]
+}
+```",336,30
+144,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [6, 7]
+}
+```",339,33
+145,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10, 11]
+}
+```",342,36
+146,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+147,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [3]
+}
+```",336,30
+148,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7]
+}
+```",336,30
+149,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [6, 7]
+}
+```",339,33
+150,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+151,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7]
+}
+```",336,30
+152,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",361,30
+153,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [2, 4, 7, 11]
+}
+```",345,39
+154,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+155,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+156,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10]
+}
+```",339,33
+157,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",345,30
+158,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [6]
+}
+```",336,30
+159,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7, 9, 11]
+}
+```",345,39
+160,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [3]
+}
+```",336,30
+161,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [3, 7]
+}
+```",339,33
+162,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",347,30
+163,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 14]
+}
+```",339,33
+164,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [7]
+}
+```",336,30
+165,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",356,30
+166,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+167,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",347,30
+168,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+169,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",344,30
+170,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",352,30
+171,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [10, 11, 12]
+}
+```",342,36
+172,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [3, 6, 7]
+}
+```",342,36
+173,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [3]
+}
+```",336,30
+174,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [7, 12]
+}
+```",339,33
+175,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [5, 6]
+}
+```",339,33
+176,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [3]
+}
+```",336,30
+177,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [6, 7]
+}
+```",339,33
+178,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 8, 10, 11]
+}
+```",345,39
+179,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [9, 12]
+}
+```",339,33
+180,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [9, 12]
+}
+```",339,33
+181,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",351,30
+182,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [6, 7, 9, 11]
+}
+```",345,39
+183,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",353,30
+184,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+185,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [4, 7, 9, 11]
+}
+```",345,39
+186,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",336,30
+187,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",344,30
+188,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [7]
+}
+```",336,30
+189,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",351,30
+190,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 11]
+}
+```",339,33
+191,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 9, 10, 11]
+}
+```",345,39
+192,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [9, 12]
+}
+```",339,33
+193,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",345,30
+194,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",350,30
+195,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [3, 5, 7]
+}
+```",342,36
+196,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",347,30
+197,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+198,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+199,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",345,30
+200,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+201,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",351,30
+202,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+203,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",350,30
+204,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",351,30
+205,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7, 10, 11]
+}
+```",345,39
+206,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",336,30
+207,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",354,30
+208,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+209,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [4, 7]
+}
+```",339,33
+210,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",352,30
+211,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [3]
+}
+```",336,30
+212,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [14]
+}
+```",336,30
+213,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+214,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [3, 7]
+}
+```",339,33
+215,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",351,30
+216,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",348,30
+217,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+218,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",356,30
+219,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",348,30
+220,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [6, 7, 9]
+}
+```",342,36
+221,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 10]
+}
+```",339,33
+222,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",350,30
+223,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+224,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [3]
+}
+```",350,30
+225,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [5, 13]
+}
+```",339,33
+226,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+227,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",351,30
+228,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",349,30
+229,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [7]
+}
+```",336,30
+230,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [6, 9, 14]
+}
+```",342,36
+231,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7]
+}
+```",336,30
+232,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",344,30
+233,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+234,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [7]
+}
+```",336,30
+235,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",351,30
+236,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [10, 12]
+}
+```",339,33
+237,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",352,30
+238,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [3, 7]
+}
+```",339,33
+239,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7]
+}
+```",346,30
+240,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",345,30
+241,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [6, 7]
+}
+```",339,33
+242,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",352,30
+243,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+244,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [10]
+}
+```",336,30
+245,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",357,30
+246,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [6, 7, 8]
+}
+```",342,36
+247,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [5, 12]
+}
+```",339,33
+248,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+249,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [5, 6, 7, 11]
+}
+```",345,39
+250,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [11]
+}
+```",336,30
+251,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",348,30
+252,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [9, 10]
+}
+```",339,33
+253,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+254,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [4, 7, 9, 10, 11]
+}
+```",348,42
+255,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [3, 7]
+}
+```",339,33
+256,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7, 11]
+}
+```",339,33
+257,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",354,30
+258,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",336,30
+259,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7]
+}
+```",343,30
+260,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",347,30
+261,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [3, 5, 6, 7]
+}
+```",345,39
+262,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [6, 7]
+}
+```",339,33
+263,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",350,30
+264,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""C"",
+  ""type_of_expression"": [3]
+}
+```",336,30
+265,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [2, 6, 7]
+}
+```",342,36
+266,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [7]
+}
+```",336,30
+267,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""B"",
+  ""type_of_expression"": [3]
+}
+```",336,30
+268,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+269,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+270,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+271,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+272,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+273,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+274,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+275,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+276,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13]
+}
+```",339,33
+277,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+278,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+279,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+280,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+281,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+282,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13]
+}
+```",339,33
+283,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+284,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+285,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+286,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+287,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",344,30
+288,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+289,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+290,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+291,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+292,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+293,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+294,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+295,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+296,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [14]
+}
+```",336,30
+297,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+298,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+299,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+300,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [14]
+}
+```",336,30
+301,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",347,30
+302,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [14]
+}
+```",336,30
+303,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13, 14]
+}
+```",342,36
+304,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",357,30
+305,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+306,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+307,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+308,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+309,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [14]
+}
+```",336,30
+310,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+311,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+312,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+313,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",355,30
+314,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+315,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+316,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+317,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+318,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [14]
+}
+```",336,30
+319,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+320,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 14]
+}
+```",339,33
+321,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+322,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",344,30
+323,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+324,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+325,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+326,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [14]
+}
+```",336,30
+327,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+328,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [14]
+}
+```",336,30
+329,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+330,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+331,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+332,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 14]
+}
+```",339,33
+333,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13]
+}
+```",339,33
+334,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+335,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+336,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+337,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+338,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13]
+}
+```",339,33
+339,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+340,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+341,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+342,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13]
+}
+```",339,33
+343,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+344,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+345,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+346,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+347,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+348,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+349,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [14]
+}
+```",336,30
+350,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+351,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+352,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+353,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+354,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",349,30
+355,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [14]
+}
+```",336,30
+356,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+357,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+358,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+359,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+360,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+361,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",343,30
+362,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+363,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+364,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+365,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+366,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+367,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+368,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+369,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+370,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+371,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+372,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",344,30
+373,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 13]
+}
+```",339,33
+374,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+375,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+376,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+377,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",345,30
+378,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",347,30
+379,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",347,30
+380,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+381,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+382,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+383,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",344,30
+384,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+385,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+386,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+387,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+388,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+389,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+390,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",349,30
+391,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+392,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",345,30
+393,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",345,30
+394,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+395,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+396,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12]
+}
+```",336,30
+397,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+398,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [12, 14]
+}
+```",339,33
+399,"```json
+{
+  ""antisemitic"": false,
+  ""category"": ""A"",
+  ""type_of_expression"": [0]
+}
+```",344,30
+400,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
+401,"```json
+{
+  ""antisemitic"": true,
+  ""category"": ""D"",
+  ""type_of_expression"": [13]
+}
+```",336,30
